@@ -63,7 +63,7 @@ const Xennpy = {
 
 ## 📈 Contribution Graph
 
-[![Xennpy GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AzRyCb&theme=react-dark&hide_border=true)](https://github.com/Xennpy)
+[![Xennpy GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xennpy&theme=react-dark&hide_border=true)](https://github.com/Xennpy)
 
 ## 🌐 Connect With Me
 
